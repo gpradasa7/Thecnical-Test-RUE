@@ -12,7 +12,10 @@ luego se abrirá el localhost
 <code>http://localhost:3000/</code>
 </ol>
 
-## se debe actualizar la ruta endpoint de crudcrud para que funcione sin nungun problema
+## se debe actualizar la ruta endpoint de crudcrud en la ruta SRC/helpers/urls.js la variable <code>apiKey</code>  para que funcione sin nungun problema
+
+![image](https://user-images.githubusercontent.com/101824921/184987926-269c1a3d-dc25-483e-9c01-db23d5d65d90.png)
+
 
 ### `npm start`
 
